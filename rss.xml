@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[stream your life]]></title>
+        <description><![CDATA[stream your life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 19:17:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ouch!]]></title>
+            <description><![CDATA[<article><h1>Ouch!</h1><p>On December 17, Juniper Networks issued an urgent security advisory about "unauthorized code" found within the operating system used by some of the company's NetScreen firewalls and Secure Service Gateway (SSG) appliances.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae87b802ae17a2620261aa0d0c10c19a61f5302.jpg"></article>]]></description>
+            <link>http://arstechnica.com/security/2015/12/researchers-confirm-backdoor-password-in-juniper-firewall-code/</link>
+            <guid isPermaLink="false">b5880522-0c71-418a-948b-ef9180ef6bfe</guid>
+            <pubDate>Mon, 21 Dec 2015 19:17:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
